@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Heloo all</h1>
+      <h2> HI </h2>
       <h3>I am Ojas 🥽</h3>
     </>
   );
